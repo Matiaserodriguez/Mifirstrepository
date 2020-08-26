@@ -1,1 +1,1 @@
-print('Lean')
+print('python')
